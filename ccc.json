@@ -3,6 +3,6 @@
     "bb": true,
     "k":21,
 
-    "dev1": true,
+    "dev1": false,
     "dev2": true
 }
